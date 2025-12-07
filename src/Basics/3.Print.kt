@@ -1,3 +1,5 @@
+package Basics
+
 fun main() {
     // same line print
     print("prints in this line")

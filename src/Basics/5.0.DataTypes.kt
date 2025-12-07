@@ -1,3 +1,5 @@
+package Basics
+
 fun main() {
 
     // In Kotlin we don't have any concepts of primitives. Here everything are pretty much objects

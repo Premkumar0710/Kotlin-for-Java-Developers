@@ -1,3 +1,5 @@
+package Basics
+
 fun main() {
     var name = "Jamila"
    // name = null ( CTE )

@@ -1,3 +1,5 @@
+package Basics
+
 fun main() {
 
     var number = 10

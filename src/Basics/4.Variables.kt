@@ -1,3 +1,5 @@
+package Basics
+
 fun main() {
     // this variable name has a content of string named Jamal
     var name: String = "Jamal"
