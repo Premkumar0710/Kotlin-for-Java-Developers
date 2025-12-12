@@ -1,4 +1,4 @@
-package OOPS
+package OOPS_1
 
 fun main(args: Array<String>) {
     // Instead of assigning every attributes as like prev lecture, we can use constructors

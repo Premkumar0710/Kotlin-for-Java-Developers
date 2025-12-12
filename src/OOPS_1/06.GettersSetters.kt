@@ -1,4 +1,4 @@
-package OOPS
+package OOPS_1
 
 // Getters & Setters are auto-generated (Implicit) by default & not explicit like Java
 fun main(args: Array<String>) {

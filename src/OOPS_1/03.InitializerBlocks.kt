@@ -1,4 +1,4 @@
-package OOPS
+package OOPS_1
 
 fun main(args: Array<String>) {
     val user = User("Alex","Dobinca",23)
