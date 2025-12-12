@@ -1,4 +1,4 @@
-package `01_Basics/`
+package `01_Basics`
 
 fun main() {
     // this variable name has a content of string named Jamal

@@ -1,4 +1,4 @@
-package `01_Basics/`
+package `01_Basics`
 
 import kotlin.math.*
 

@@ -1,4 +1,4 @@
-package `01_Basics/`
+package `01_Basics`
 
 // Static + final in java (This value is known before even code execution whereas
 // Let's say this particular variable depends on the function call, it won't work because we will get output after code execution is done
